@@ -1,5 +1,5 @@
 # Cyber Security
 
 ## Information
-- Phakkhaphon Phueakdet
+- Phakkhaphon Phueakdet (Auto)
 - 6602041620122
